@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusLock</string>
+    <string name="a11y_description">FocusLock only detects which app has come to the foreground, so it can count continuous use and show a break screen for apps you selected. It does not read screen content, passwords or messages, and sends nothing off the device.</string>
+</resources>
